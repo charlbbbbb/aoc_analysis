@@ -1,0 +1,6 @@
+pandas
+seaborn
+bs4
+matplotlib
+openpyxl
+requests
